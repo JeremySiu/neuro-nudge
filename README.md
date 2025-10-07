@@ -2,7 +2,7 @@
 
 A rhythm-based therapeutic game that promotes physical activity and monitors heart rate in bedridden delirium patients.
 
-![Neuro Nudge Banner](https://private-user-images.githubusercontent.com/168996502/415816197-3ddde5bc-70d1-4625-9e34-8e3727bbfdab.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgwNjQ3NzAsIm5iZiI6MTc1ODA2NDQ3MCwicGF0aCI6Ii8xNjg5OTY1MDIvNDE1ODE2MTk3LTNkZGRlNWJjLTcwZDEtNDYyNS05ZTM0LThlMzcyN2JiZmRhYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNlQyMzE0MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMmFkMzJkNzE2NGVjMzI5ZWZlNjg4MTljMjZmZGNhMWM0NzlmNTUzZmNkNzA5YTAyMzhlMDQ5MTNiMGY4MmNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EdMRz4YVvipI4XjjwSuB8SMzY1K7W7VSFycRaVr5Z8c) <!-- Replace with actual image path -->
+![NeuroNudge](https://github.com/user-attachments/assets/df003e0b-5dd6-4237-8de8-1ce3d1b54ee6)
 
 ## Award-Winning Innovation
 
@@ -45,7 +45,8 @@ Neuro Nudge addresses this issue by:
 ## Screenshots
 
 ### Game Interface and Hardware Setup
-![Game Interface](https://private-user-images.githubusercontent.com/168996502/415816185-c55f23c1-662b-4c44-bab6-1afc1b327744.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgwNjQ3NzAsIm5iZiI6MTc1ODA2NDQ3MCwicGF0aCI6Ii8xNjg5OTY1MDIvNDE1ODE2MTg1LWM1NWYyM2MxLTY2MmItNGM0NC1iYWI2LTFhZmMxYjMyNzc0NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNlQyMzE0MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZWRkNmJmY2MxMzM1OGFiZWEzYmIxMGQ2YjA2NmJhYzAzZjNlMTFlM2E4ODNlZWZmZTMxZjc2NGU1OTEwYWYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.b7adCz3ibghjUkisNqM9rmct9pLgZiw2O25xoRrhKDY) <!-- Replace with actual image path -->
+![SetupImage1](https://github.com/user-attachments/assets/d6fc917b-3c0c-4e13-8675-50c583368a11)
+![SetupImage2](https://github.com/user-attachments/assets/d5342e19-a94d-4b31-a144-a1ebbd1a1211)
 
 ## Clinical Motivation
 
